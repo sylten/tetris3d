@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="entities\cube_container.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="564" topLine="0" />
+	</File>
+	<File name="entities\cube_container.h" open="0" top="0" tabpos="4">
+		<Cursor position="286" topLine="0" />
+	</File>
+	<File name="entities\model.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="4550" topLine="11" />
+	</File>
+	<File name="entities\model.h" open="0" top="0" tabpos="7">
+		<Cursor position="1322" topLine="0" />
+	</File>
+	<File name="entities\player.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="4868" topLine="115" />
+	</File>
+	<File name="entities\player.h" open="1" top="0" tabpos="8">
+		<Cursor position="828" topLine="0" />
+	</File>
+	<File name="entities\tetromino.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="495" topLine="0" />
+	</File>
+	<File name="entities\tetromino.h" open="0" top="0" tabpos="4">
+		<Cursor position="143" topLine="0" />
+	</File>
+	<File name="input\keyboard_listener.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="228" topLine="0" />
+	</File>
+	<File name="input\keyboard_listener.h" open="0" top="0" tabpos="9">
+		<Cursor position="78" topLine="0" />
+	</File>
+	<File name="input\mouse_listener.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="506" topLine="0" />
+	</File>
+	<File name="input\mouse_listener.h" open="0" top="0" tabpos="9">
+		<Cursor position="375" topLine="0" />
+	</File>
+	<File name="main\constants.h" open="0" top="0" tabpos="5">
+		<Cursor position="77" topLine="0" />
+	</File>
+	<File name="main\game.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="2491" topLine="67" />
+	</File>
+	<File name="main\game.h" open="1" top="0" tabpos="4">
+		<Cursor position="478" topLine="0" />
+	</File>
+	<File name="main\init_clean.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="231" topLine="0" />
+	</File>
+	<File name="main\main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="2872" topLine="93" />
+	</File>
+	<File name="main\main.h" open="1" top="0" tabpos="2">
+		<Cursor position="1296" topLine="0" />
+	</File>
+	<File name="main\menu.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1540" topLine="26" />
+	</File>
+	<File name="main\menu.h" open="1" top="0" tabpos="6">
+		<Cursor position="640" topLine="0" />
+	</File>
+	<File name="misc\camera.cpp" open="1" top="1" tabpos="9">
+		<Cursor position="371" topLine="0" />
+	</File>
+	<File name="misc\camera.h" open="0" top="0" tabpos="10">
+		<Cursor position="804" topLine="0" />
+	</File>
+	<File name="misc\error.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="229" topLine="0" />
+	</File>
+	<File name="misc\error.h" open="0" top="0" tabpos="10">
+		<Cursor position="509" topLine="0" />
+	</File>
+	<File name="misc\game_props.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="838" topLine="0" />
+	</File>
+	<File name="misc\game_props.h" open="0" top="0" tabpos="0">
+		<Cursor position="129" topLine="0" />
+	</File>
+	<File name="misc\megazor.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1152" topLine="9" />
+	</File>
+	<File name="misc\megazor.h" open="0" top="0" tabpos="0">
+		<Cursor position="378" topLine="0" />
+	</File>
+	<File name="misc\timer.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="434" topLine="0" />
+	</File>
+	<File name="misc\timer.h" open="0" top="0" tabpos="6">
+		<Cursor position="339" topLine="0" />
+	</File>
+	<File name="user_interface\text.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="582" topLine="0" />
+	</File>
+	<File name="user_interface\text.h" open="0" top="0" tabpos="0">
+		<Cursor position="295" topLine="0" />
+	</File>
+	<File name="user_interface\text_3d.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1568" topLine="18" />
+	</File>
+	<File name="user_interface\text_3d.h" open="0" top="0" tabpos="0">
+		<Cursor position="353" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

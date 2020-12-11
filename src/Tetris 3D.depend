@@ -1,0 +1,295 @@
+# depslib dependency file v1.0
+1260370826 source:d:\tetris\src\entities\model.cpp
+	"model.h"
+	"..\main\constants.h"
+
+1260370730 d:\tetris\src\entities\model.h
+	<windows.h>
+	<d3dx9.h>
+	<string>
+
+1260400705 d:\tetris\src\main\constants.h
+
+1260391139 source:d:\tetris\src\input\keyboard_listener.cpp
+	"keyboard_listener.h"
+
+1260391134 d:\tetris\src\input\keyboard_listener.h
+	<windows.h>
+
+1260378175 source:d:\tetris\src\input\mouse_listener.cpp
+	"mouse_listener.h"
+
+1260378178 d:\tetris\src\input\mouse_listener.h
+	<windows.h>
+
+1260374255 source:d:\tetris\src\main\init_clean.cpp
+	"main.h"
+
+1260397829 d:\tetris\src\main\main.h
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+	<d3dx9.h>
+	<vector>
+	<string>
+	"constants.h"
+	"key_names.h"
+	"..\entities\tetromino.h"
+	"..\resources\resource.h"
+	"..\input\mouse_listener.h"
+	"..\input\keyboard_listener.h"
+	"..\misc\camera.h"
+	"..\misc\timer.h"
+	"..\user_interface\text.h"
+	"..\user_interface\text_3d.h"
+
+1258195826 d:\tetris\src\main\key_names.h
+
+1020371400 d:\tetris\src\resources\resource.h
+
+1260374153 d:\tetris\src\misc\camera.h
+	<d3dx9.h>
+
+1260369098 d:\tetris\src\misc\timer.h
+	<string>
+	<vector>
+
+1260307441 d:\tetris\src\user_interface\text.h
+	<d3dx9.h>
+	<string>
+
+1260299362 d:\tetris\src\user_interface\text_3d.h
+	<d3dx9.h>
+	<string>
+
+1259784679 source:d:\tetris\src\main\input_handling.cpp
+	"main.h"
+
+1260369092 source:d:\tetris\src\misc\timer.cpp
+	"timer.h"
+	"..\misc\megazor.h"
+
+1260364551 d:\tetris\src\misc\megazor.h
+	<windows.h>
+	<d3dx9.h>
+	<string>
+	<sstream>
+
+1260300490 source:d:\tetris\src\user_interface\text_3d.cpp
+	"text_3d.h"
+
+1260374184 source:d:\tetris\src\misc\camera.cpp
+	"camera.h"
+	<mmsystem.h>
+	<cmath>
+	"..\main\constants.h"
+
+1260364602 source:d:\tetris\src\misc\megazor.cpp
+	"megazor.h"
+	"..\main\constants.h"
+
+1260364022 source:d:\tetris\src\resources\tetris.rc
+	"resource.h"
+	"windows.h"
+	"resource.h"
+
+1260307767 source:d:\tetris\src\user_interface\text.cpp
+	"text.h"
+
+1260396951 source:d:\tetris\src\entities\tetromino.cpp
+	"tetromino.h"
+
+1260396884 d:\tetris\src\entities\tetromino.h
+	"model.h"
+	"..\main\constants.h"
+
+1260400919 source:d:\tetris\src\main\main.cpp
+	"main.h"
+
+1260576399 source:d:\tetris 3d\src\entities\model.cpp
+	"model.h"
+	"..\main\constants.h"
+
+1260370730 d:\tetris 3d\src\entities\model.h
+	<windows.h>
+	<d3dx9.h>
+	<string>
+
+1260781112 d:\tetris 3d\src\main\constants.h
+
+1260617226 source:d:\tetris 3d\src\entities\tetromino.cpp
+	"tetromino.h"
+
+1260552181 d:\tetris 3d\src\entities\tetromino.h
+	"model.h"
+	"..\main\constants.h"
+	"..\misc\game_props.h"
+
+1260391139 source:d:\tetris 3d\src\input\keyboard_listener.cpp
+	"keyboard_listener.h"
+
+1260548307 d:\tetris 3d\src\input\keyboard_listener.h
+	<windows.h>
+
+1260378175 source:d:\tetris 3d\src\input\mouse_listener.cpp
+	"mouse_listener.h"
+
+1260378178 d:\tetris 3d\src\input\mouse_listener.h
+	<windows.h>
+
+1260651912 source:d:\tetris 3d\src\main\init_clean.cpp
+	"main.h"
+
+1260651918 d:\tetris 3d\src\main\main.h
+	<windows.h>
+	<windowsx.h>
+	<mmsystem.h>
+	<d3dx9.h>
+	<vector>
+	<string>
+	"constants.h"
+	"key_names.h"
+	"game.h"
+	"menu.h"
+	"..\entities\player.h"
+	"..\entities\cube_container.h"
+	"..\resources\resource.h"
+	"..\input\mouse_listener.h"
+	"..\input\keyboard_listener.h"
+	"..\misc\camera.h"
+	"..\misc\timer.h"
+	"..\misc\game_props.h"
+	"..\misc\megazor.h"
+	"..\user_interface\text.h"
+	"..\user_interface\text_3d.h"
+
+1258195826 d:\tetris 3d\src\main\key_names.h
+
+1020371400 d:\tetris 3d\src\resources\resource.h
+
+1260804007 d:\tetris 3d\src\misc\camera.h
+	<d3dx9.h>
+
+1260369098 d:\tetris 3d\src\misc\timer.h
+	<string>
+	<vector>
+
+1260803582 d:\tetris 3d\src\user_interface\text.h
+	<d3dx9.h>
+	<string>
+
+1260656365 d:\tetris 3d\src\user_interface\text_3d.h
+	<d3dx9.h>
+	<string>
+
+1260648745 source:d:\tetris 3d\src\main\input_handling.cpp
+	"main.h"
+
+1260818002 source:d:\tetris 3d\src\main\main.cpp
+	"main.h"
+
+1260819666 source:d:\tetris 3d\src\misc\camera.cpp
+	"camera.h"
+	<mmsystem.h>
+	<cmath>
+	"..\main\constants.h"
+
+1260575596 source:d:\tetris 3d\src\misc\megazor.cpp
+	"megazor.h"
+	"..\main\constants.h"
+	<fstream>
+
+1260575559 d:\tetris 3d\src\misc\megazor.h
+	<windows.h>
+	<d3dx9.h>
+	<string>
+	<sstream>
+
+1260649654 source:d:\tetris 3d\src\misc\timer.cpp
+	"timer.h"
+	"..\misc\megazor.h"
+
+1260364022 source:d:\tetris 3d\src\resources\tetris.rc
+	"resource.h"
+	"windows.h"
+	"resource.h"
+
+1260803678 source:d:\tetris 3d\src\user_interface\text.cpp
+	"text.h"
+
+1260656407 source:d:\tetris 3d\src\user_interface\text_3d.cpp
+	"text_3d.h"
+
+1260650144 d:\tetris 3d\src\misc\game_props.h
+	"..\entities\model.h"
+	"..\user_interface\text.h"
+
+1260803460 d:\tetris 3d\src\entities\player.h
+	<d3dx9.h>
+	<string>
+	"tetromino.h"
+	"cube_container.h"
+	"..\misc\game_props.h"
+	"..\input\keyboard_listener.h"
+
+1260548368 source:d:\tetris 3d\src\entities\level.cpp
+	"level.h"
+
+1260555931 d:\tetris 3d\src\entities\level.h
+
+1260803845 source:d:\tetris 3d\src\entities\player.cpp
+	"player.h"
+	"..\main\constants.h"
+	"..\main\key_names.h"
+	"..\misc\megazor.h"
+
+1260650153 source:d:\tetris 3d\src\misc\game_props.cpp
+	"game_props.h"
+	"..\main\constants.h"
+
+1260574855 d:\tetris 3d\src\entities\cube_container.h
+	<d3dx9.h>
+	<vector>
+	"..\misc\game_props.h"
+
+1260575669 source:d:\tetris 3d\src\entities\cube_container.cpp
+	"cube_container.h"
+	<cmath>
+	"..\main\constants.h"
+	"..\misc\megazor.h"
+
+1260746028 source:d:\tetris 3d\src\misc\error.cpp
+
+1260746017 d:\tetris 3d\src\misc\error.h
+	<fstream>
+	<string>
+
+1260814225 source:d:\tetris 3d\src\main\game.cpp
+	"game.h"
+	<sstream>
+	"constants.h"
+	"key_names.h"
+	"..\misc\error.h"
+
+1260801762 d:\tetris 3d\src\main\game.h
+	<d3dx9.h>
+	<vector>
+	<string>
+	"..\misc\camera.h"
+	"..\misc\game_props.h"
+	"..\entities\cube_container.h"
+	"..\entities\player.h"
+
+1260817268 source:d:\tetris 3d\src\main\menu.cpp
+	"menu.h"
+	<sstream>
+	"constants.h"
+	"key_names.h"
+
+1260817182 d:\tetris 3d\src\main\menu.h
+	<d3dx9.h>
+	"..\misc\camera.h"
+	"..\misc\game_props.h"
+	"..\input\keyboard_listener.h"
+	"..\user_interface\text_3d.h"
+
